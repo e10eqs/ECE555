@@ -1,0 +1,4 @@
+mgc_rve_context_lcv "ECE555" "NAND2" "layout" 10000
+mgc_rve_show_layers 1 11 12 13
+mp 4 0.046 0.243 0.17 0.243 0.17 0.297 0.046 0.297
+mgc_rve_zoom 0.0195 0.2315 0.1965 0.3085 1

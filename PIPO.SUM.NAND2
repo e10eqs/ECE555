@@ -1,0 +1,77 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.8-64b 06/22/2022 16:16 (sjfhw317) $
+          : sub-version  IC6.1.8-64b.500.26 
+Started at: 11-Nov-2022  17:05:14
+User Name : seath
+Host Name : tux-166
+Directory : /filespace/s/seath/ECE555
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+
+                       Individual Cell Statistics - Basic Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               Instance Array   Polygon  Rect   Path   PathSeg   Text   TextDisplay   Line   Dot   Arc   Donut   Ellipse 
+---------------------------------------------------------------------------------------------------------------------------------------
+ECE555/NAND2/layout             0        0       0        61     0      0         4      0             0      0     0     0       0       
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Individual Cell Statistics - Advanced Objects
+---------------------------------------------------------------------------------------------------------------------------------------
+Library/Cell/View               PRBdy    OtherBdy   AreaBlkg   LayerBlkg  AreaHalo   Row   Marker   CustVia   StdVia    CdsGenVia
+---------------------------------------------------------------------------------------------------------------------------------------
+ECE555/NAND2/layout             0        0          0          0          0          0     0        0         0         0        
+---------------------------------------------------------------------------------------------------------------------------------------
+
+                       Statistics of Layers 
+---------------------------------------------------------------------------------------------------------------------------------------
+Cadence         Cadence         Stream  Stream   
+Layer           Purpose         Layer   Datatype  Polygon  Rect     Path     Text     TextDisplay   Line Dot Arc Donut Ellipse Pathseg
+---------------------------------------------------------------------------------------------------------------------------------------
+well            pin             1       251       0        0        0        1        0             0    0   0   0     0      0      
+V0              drawing         18      0         0        10       0        0        0             0    0   0   0     0      0      
+M1              drawing         19      0         0        9        0        0        0             0    0   0   0     0      0      
+Pselect         drawing         13      0         0        1        0        0        0             0    0   0   0     0      0      
+BOUNDARY        drawing         100     0         0        1        0        0        0             0    0   0   0     0      0      
+SDT             drawing         88      0         0        6        0        0        0             0    0   0   0     0      0      
+Active          drawing         11      0         0        2        0        0        0             0    0   0   0     0      0      
+Nselect         drawing         12      0         0        1        0        0        0             0    0   0   0     0      0      
+GCut            drawing         10      0         0        4        0        0        0             0    0   0   0     0      0      
+LISD            drawing         17      0         0        6        0        0        0             0    0   0   0     0      0      
+LIG             drawing         16      0         0        4        0        0        0             0    0   0   0     0      0      
+M1              pin             19      251       0        0        0        2        0             0    0   0   0     0      0      
+Gate            drawing         7       0         0        4        0        0        0             0    0   0   0     0      0      
+P_SUB           pin             3       251       0        0        0        1        0             0    0   0   0     0      0      
+fin             drawing         2       0         0        12       0        0        0             0    0   0   0     0      0      
+well            drawing         1       0         0        1        0        0        0             0    0   0   0     0      0      
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Summary of Objects Translated:
+	Scalar Instances:		0
+	Array Instances:		0
+	Polygons:			0
+	Paths:				0
+	Rectangles:			61
+	Lines:				0
+	Arcs:				0
+	Donuts:				0
+	Dots:				0
+	Ellipses:			0
+	Boundaries:			0
+	Area Blockages:			0
+	Layer Blockages:		0
+	Area Halos:			0
+	Markers:			0
+	Rows:				0
+	Standard Vias:			0
+	Custom Vias:			0
+	CdsGen Vias:			0
+	Pathsegs:			0
+	Text:				4
+	TextDisplay:		0
+	Cells:				1
+Design Libraries: 
+
+DEFINE ECE555	/filespace/s/seath/ECE555/ECE555
