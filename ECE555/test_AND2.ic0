@@ -1,0 +1,26 @@
+* "simulator" "PrimeSim HSPICE"
+* "version" "T-2022.06 linux64"
+* "format" "HSP"
+* "rundate" "18:46:46 10/25/2022 "
+* "netlist" "SIM/test_AND2.sp "
+* "runtitle" "* and_2bit hspice testbench file (test_and2.sp)"
+* time =  0.0000000e+00   
+* temperature =  2.5000000e+01   
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc= 1.0000000e-18   
+.nodeset
++ in<0> = 9.0000000e-01   
++ in<1> = 9.0000000e-01   
++ net1 = 4.7023150e-08   
++ net2 = 5.4166726e-08   
++ net3 = 5.0147200e-08   
++ net4 = 8.9999994e-01   
++ net5 = 8.9999994e-01   
++ net6 = 8.9999994e-01   
++ out = 8.9999994e-01   
++ vdd! = 9.0000000e-01   
++ vss! = 0.0000000e+00   
++ xi0.net1 = 8.9999994e-01   
++ xi0.xnand.net1 = 3.0011519e-02   
+***   END: Saved Operating Point ***                     

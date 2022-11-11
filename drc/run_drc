@@ -1,0 +1,12 @@
+*drcRulesFile: /cae/apps/data/asap7PDK-2022/asap7PDK_r1p7/calibre/rundirs/drc/runset_dir_drc/drcRunset_asap7
+*drcRunDir: /filespace/s/seath/ECE555/drc
+*drcLayoutPaths: INV.calibre.db
+*drcLayoutPrimary: INV
+*drcLayoutLibrary: ECE555
+*drcLayoutView: layout
+*drcLayoutGetFromViewer: 1
+*drcResultsFile: INV.drc.results
+*drcSummaryFile: INV.drc.summary
+*cmnFDILayoutLibrary: ECE555
+*cmnFDILayoutView: layout
+*cmnFDIDEFLayoutPath: INV.def

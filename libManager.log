@@ -1,0 +1,53 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 06/21/2022 12:53 (cpgsrv12) $
+\o Sub version:		sub-version  s266 
+\o Arguments:		-mpssession virtuoso1871434 -mpshost tux-142 
+\o Working Directory:	tux-142:/filespace/s/seath/ECE555
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Log file is "/filespace/s/seath/ECE555/libManager.log".
+\o Opening libManager window.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(261 176 602 491))
+\o changeWorkingDir("/filespace/s/seath/ECE555") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\w Warning: The directory: '/filespace/s/seath/ECE555/$PDK_DIR/asap7sc6t_26' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'asap7sc6t_26'.
+\w Warning: The directory: '/filespace/s/seath/ECE555/$PDK_DIR/asap7sc7p5t_28' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'asap7sc7p5t_28'.
+\w Warning: The directory: '/filespace/s/seath/ECE555/$PDK_DIR/asap7ssc7p5t_05' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'asap7ssc7p5t'.
+\w Warning: The directory: '/filespace/s/seath/ECE555/$PDK_DIR/cdslib/asap7_TechLib' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'asap7_TechLib'.
+\w Warning: The directory: '/filespace/s/seath/ECE555/$CDSHOME/tools/dfII/samples/cdslib/sample' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'sample'.
+\o Library Manager customization server connected.
+\a cdsLibManager->showCatsToggle->value = t
+\a cdsLibManager->QToolButton7->value = t
+\a cdsLibManager->showCategoriesAction->value = t
+\a cdsLibManager->showFilesToggle->value = t
+\a cdsLibManager->showFilesToggle->value = nil
+\a cdsLibManager->showCatsToggle->value = nil
+\a cdsLibManager->QToolButton7->value = nil
+\a cdsLibManager->showCategoriesAction->value = nil
+\w Warning: The directory: '/filespace/s/seath/ECE555/$PDK_DIR/asap7sc6t_26' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'asap7sc6t_26'.
+\w Warning: The directory: '/filespace/s/seath/ECE555/$PDK_DIR/asap7sc7p5t_28' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'asap7sc7p5t_28'.
+\w Warning: The directory: '/filespace/s/seath/ECE555/$PDK_DIR/asap7ssc7p5t_05' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'asap7ssc7p5t'.
+\w Warning: The directory: '/filespace/s/seath/ECE555/$PDK_DIR/cdslib/asap7_TechLib' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'asap7_TechLib'.
+\w Warning: The directory: '/filespace/s/seath/ECE555/$CDSHOME/tools/dfII/samples/cdslib/sample' does not exist
+\w 	but was defined in libFile '/filespace/s/seath/ECE555/cds.lib' for Lib 'sample'.
+\o DB was auto refreshed.
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")

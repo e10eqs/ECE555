@@ -1,0 +1,27 @@
+//
+//  Rule file generated on Fri Nov 11 09:17:04 CST 2022
+//     by Calibre Interactive - DRC (v2017.4_19.14)
+//
+//      *** PLEASE DO NOT MODIFY THIS FILE ***
+//
+//
+
+LAYOUT PATH  "INV.calibre.db"
+LAYOUT PRIMARY "INV"
+LAYOUT SYSTEM GDSII
+
+DRC RESULTS DATABASE "INV.drc.results" ASCII 
+DRC MAXIMUM RESULTS 1000
+DRC MAXIMUM VERTEX 4096
+
+DRC CELL NAME YES CELL SPACE XFORM
+DRC SUMMARY REPORT "INV.drc.summary" REPLACE HIER
+
+VIRTUAL CONNECT COLON NO
+VIRTUAL CONNECT REPORT NO
+
+DRC ICSTATION YES
+
+
+INCLUDE "/cae/apps/data/asap7PDK-2022/asap7PDK_r1p7/calibre/rundirs/drc/runset_dir_drc/drcRunset_asap7"
+
