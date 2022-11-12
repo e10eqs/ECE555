@@ -1,21 +1,21 @@
 //
-//  Rule file generated on Fri Nov 11 17:05:14 CST 2022
+//  Rule file generated on Fri Nov 11 20:34:11 CST 2022
 //     by Calibre Interactive - DRC (v2017.4_19.14)
 //
 //      *** PLEASE DO NOT MODIFY THIS FILE ***
 //
 //
 
-LAYOUT PATH  "NAND2.calibre.db"
-LAYOUT PRIMARY "NAND2"
+LAYOUT PATH  "INV.calibre.db"
+LAYOUT PRIMARY "INV"
 LAYOUT SYSTEM GDSII
 
-DRC RESULTS DATABASE "NAND2.drc.results" ASCII 
+DRC RESULTS DATABASE "INV.drc.results" ASCII 
 DRC MAXIMUM RESULTS 1000
 DRC MAXIMUM VERTEX 4096
 
 DRC CELL NAME YES CELL SPACE XFORM
-DRC SUMMARY REPORT "NAND2.drc.summary" REPLACE HIER
+DRC SUMMARY REPORT "INV.drc.summary" REPLACE HIER
 
 VIRTUAL CONNECT COLON NO
 VIRTUAL CONNECT REPORT NO
@@ -23,5 +23,5 @@ VIRTUAL CONNECT REPORT NO
 DRC ICSTATION YES
 
 
-INCLUDE "/filespace/s/seath/ECE555/drc/_drcRules_calibre_asap7.rul_"
+INCLUDE "/filespace/k/krthrane/ECE555/drc/_drcRules_calibre_asap7.rul_"
 

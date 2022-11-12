@@ -1,0 +1,13 @@
+*drcRulesFile: /filespace/k/krthrane/ECE555/drc/_drcRules_calibre_asap7.rul_
+*drcRunDir: /filespace/k/krthrane/ECE555
+*drcLayoutPaths: INV.calibre.db
+*drcLayoutPrimary: INV
+*drcLayoutLibrary: ECE555
+*drcLayoutView: layout
+*drcLayoutGetFromViewer: 1
+*drcResultsFile: INV.drc.results
+*drcSummaryFile: INV.drc.summary
+*cmnWarnLayoutOverwrite: 0
+*cmnFDILayoutLibrary: ECE555
+*cmnFDILayoutView: layout
+*cmnFDIDEFLayoutPath: INV.def
