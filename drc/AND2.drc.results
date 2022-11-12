@@ -1,0 +1,1014 @@
+AND2 10000
+GEOMETRY.NONORTHOGONAL
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+WELL.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+WELL.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+WELL.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+WELL.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+WELL.A.1A
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+WELL.A.1B
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+WELL.GATE.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+WELL.GATE.EX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+FIN.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+FIN.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+FIN.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+FIN.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.S.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.AUX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.ACTIVE.AUX.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.ACTIVE.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.ACTIVE.EX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GATE.ACTIVE.S.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.FIN.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.W.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.S.2A
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.S.2B
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.WELL.S.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.ACTIVE.WELL.S.5
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.WELL.EN.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.ACTIVE.WELL.EN.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.A.1A
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.A.1B
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.ACTIVE.A.2A
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.ACTIVE.A.2B
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.ACTIVE.AUX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.AUX.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+ACTIVE.LUP.1
+2 2 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+p 1 4
+CN AND2 c 1 0 0 1 0 0 0
+460 2430
+1700 2430
+1700 2970
+460 2970
+p 2 4
+2620 2430
+3320 2430
+3320 2970
+2620 2970
+GCUT.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GCUT.ACTIVE.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GCUT.GATE.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GCUT.GATE.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GCUT.S.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GCUT.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GCUT.AUX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+GCUT.AUX.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+NSELECT.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+NSELECT.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+NSELECT.ACTIVE.EN.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+NSELECT.ACTIVE.EN.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.NSELECT.ACTIVE.EN.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.NSELECT.ACTIVE.EN.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+NSELECT.GATE.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+NSELECT.GATE.EX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+PSELECT.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+PSELECT.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+PSELECT.ACTIVE.EN.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+PSELECT.ACTIVE.EN.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.PSELECT.ACTIVE.EN.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.PSELECT.ACTIVE.EN.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+PSELECT.GATE.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+PSELECT.GATE.EX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+NSELECT.PSELECT.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SLVT.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SLVT.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SLVT.ACTIVE.EN.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SLVT.ACTIVE.EN.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.SLVT.ACTIVE.EN.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.SLVT.ACTIVE.EN.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SLVT.GATE.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SLVT.GATE.EX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LVT.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LVT.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LVT.ACTIVE.EN.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LVT.ACTIVE.EN.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.LVT.ACTIVE.EN.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.LVT.ACTIVE.EN.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LVT.GATE.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LVT.GATE.EX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAMVT.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAMVT.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAMVT.ACTIVE.EN.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAMVT.ACTIVE.EN.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.SRAMVT.ACTIVE.EN.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.SRAMVT.ACTIVE.EN.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAMVT.GATE.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAMVT.GATE.EX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+VT.AUX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+DUMMY.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+DUMMY.CHANNEL.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+DUMMY.CHANNEL.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+DUMMY.AUX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.W.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.W.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.SDT.W.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.GATE.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.ACTIVE.OV.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.LISD.OV.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.SDT.ACTIVE.OV.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.SDT.LISD.OV.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.GATE.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.ACTIVE.AUX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.ACTIVE.AUX.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SDT.LISD.AUX.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LISD.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LISD.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LISD.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LISD.S.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.LISD.S.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LISD.A.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.LISD.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.S.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.S.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.S.5
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.LISD.S.6
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.LISD.S.7
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.SDT.S.8
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.GATE.S.9A
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.GATE.S.9B
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.GATE.S.10
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.GCUT.S.11
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.A.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.LISD.A.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.GATE.A.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.LIG.GATE.A.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.GATE.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.LIG.AUX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.GATE.EX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+LIG.LISD.OV.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+SRAM.LIG.GATE.OV.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.S.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.S.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.M1.EN.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.LISD.EN.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.LISD.EN.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.LIG.EN.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.LIG.A.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.LIG.AUX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V0.M1.AUX.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M1.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M1.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M1.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M1.S.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M1.S.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M1.S.5
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M1.S.6
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M1.A.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M2.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M2.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M2.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M2.S.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M2.S.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M2.S.5
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M2.S.6
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M2.A.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M3.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M3.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M3.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M3.S.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M3.S.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M3.S.5
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M3.S.6
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M3.A.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V1.W.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V1.S.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V1.S.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V1.S.3
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V1.S.4
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V1.M1.EN.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V1.M2.EN.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V1.AUX.1
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V1.M2.AUX.2
+0 0 1 Nov 11 20:55:02 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V2.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V2.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V2.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V2.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V2.S.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V2.M2.EN.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V2.M3.EN.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V2.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V2.M3.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V3.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V3.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V3.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V3.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V3.S.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V3.M3.EN.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V3.M4.EN.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V3.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V3.M4.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.W.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.W.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.W.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.W.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.S.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.S.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.AUX.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M4.AUX.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.W.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.W.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.W.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.W.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.S.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.S.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.AUX.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M5.AUX.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.W.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.W.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.W.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.W.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.S.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.S.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.AUX.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M6.AUX.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.W.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.W.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.W.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.W.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.S.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.S.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.AUX.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M7.AUX.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V4.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V4.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V4.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V4.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V4.M4.EN.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V4.M5.EN.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V4.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V4.M5.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V5.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V5.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V5.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V5.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V5.M5.EN.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V5.M6.EN.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V5.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V5.M6.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V6.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V6.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V6.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V6.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V6.M6.EN.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V6.M7.EN.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V6.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V6.M7.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V7.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V7.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V7.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V7.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V7.M7.EN.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V7.M8.EN.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V7.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V7.M8.AUX.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.W.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.W.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.W.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.W.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.S.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.S.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.S.6
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.S.7
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.S.8
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.A.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M8.L.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.W.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.W.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.W.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.W.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.S.3
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.S.4
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.S.5
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.S.6
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.S.7
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.S.8
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.A.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+M9.L.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V8.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V8.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V8.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V8.M8.EN.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V8.M9.EN.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V8.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V9.W.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V9.S.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V9.S.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V9.M9.EN.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V9.PAD.EN.2
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_
+V9.AUX.1
+0 0 1 Nov 11 20:55:03 2022                     
+Rule File Pathname: /filespace/m/mdlively/ECE555/drc/_drcRules_calibre_asap7.rul_

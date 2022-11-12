@@ -1,0 +1,19 @@
+( ( nil
+  version "2.1"
+  mapType "incremental"
+  blockName "AND2"
+  repList "auCdl schematic"
+  stopList "auCdl"
+  globalList "vss! vdd!"
+  hierDelim "."
+  netlistDir "/filespace/m/mdlively/ECE555/lvs"
+ )
+( model
+( "ECE555/NAND2/schematic" "NAND2" )
+( "ECE555/INV/schematic" "INV" )
+( "ECE555/AND2/schematic" "AND2" )
+ )
+( "NAND2" "ihnl/cds0/map" )
+( "AND2" "ihnl/cds2/map" )
+( "INV" "ihnl/cds1/map" )
+ )

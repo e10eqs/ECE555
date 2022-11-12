@@ -1,0 +1,39 @@
+*lvsRulesFile: $PDK_DIR/calibre/ruledirs/lvs/lvsRules_calibre_asap7.rul
+*lvsRunDir: $PWD/lvs
+*lvsLayoutPaths: AND2.calibre.db
+*lvsLayoutPrimary: AND2
+*lvsLayoutLibrary: ECE555
+*lvsLayoutView: layout
+*lvsLayoutGetFromViewer: 1
+*lvsSourcePath: AND2.src.net
+*lvsSourcePrimary: AND2
+*lvsSourceLibrary: ECE555
+*lvsSourceView: schematic
+*lvsSourceGetFromViewer: 1
+*lvsSpiceFile: AND2.sp
+*lvsAutoMatch: 1
+*lvsHCellsFile: 
+*lvsPowerNames: vdd! VDD! vdd VDD
+*lvsGroundNames: VSS VSS! GND GND!
+*lvsERCDatabase: AND2.erc.results
+*lvsERCSummaryFile: AND2.erc.summary
+*lvsReportFile: AND2.lvs.report
+*lvsViewReport: 0
+*lvsMaskDBFile: tc24.maskdb
+*lvsReportMaximumAll: 1
+*cmnWarnLayoutOverwrite: 0
+*cmnWarnSourceOverwrite: 0
+*cmnPromptSaveRunset: 0
+*cmnShowOptions: 1
+*cmnSaveRunsetChanges: 0
+*cmnVConnectNamesState: SOME
+*cmnVConnectNames: VDD VSS
+*cmnRunHier: -2
+*cmnRunMT: 1
+*cmnRunHyper: 1
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}
+*cmnLSFSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnGridSlaveTbl: {use 1} {totalCpus 1} {minCpus 1} {architecture {{}}} {minMemory {{}}} {resourceOptions {{}}} {submitOptions {{}}}
+*cmnFDILayoutLibrary: ECE555
+*cmnFDILayoutView: layout
+*cmnFDIDEFLayoutPath: AND2.def

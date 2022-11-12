@@ -1,0 +1,58 @@
+************************************************************************
+* auCdl Netlist:
+* 
+* Library Name:  ECE555
+* Top Cell Name: AND2
+* View Name:     schematic
+* Netlisted on:  Nov 11 19:53:57 2022
+************************************************************************
+
+*.EQUATION
+*.SCALE METER
+*.MEGA
+.PARAM
+
+*.GLOBAL vss!
++        vdd!
+
+*.PIN vss!
+*+    vdd!
+
+************************************************************************
+* Library Name: ECE555
+* Cell Name:    NAND2
+* View Name:    schematic
+************************************************************************
+
+.SUBCKT NAND2 IN<0> IN<1> OUT
+*.PININFO IN<0>:I IN<1>:I OUT:O
+MM0 net1 IN<0> vss! vss! nmos_rvt w=108.00n l=20n nfin=4
+Mnmos OUT IN<1> net1 vss! nmos_rvt w=108.00n l=20n nfin=4
+MM1 OUT IN<1> vdd! vdd! pmos_rvt w=54.0n l=20n nfin=2
+Mpmos OUT IN<0> vdd! vdd! pmos_rvt w=54.0n l=20n nfin=2
+.ENDS
+
+************************************************************************
+* Library Name: ECE555
+* Cell Name:    INV
+* View Name:    schematic
+************************************************************************
+
+.SUBCKT INV IN OUT VDD VSS
+*.PININFO IN:I OUT:O VDD:B VSS:B
+MM0 OUT IN VSS VSS nmos_rvt w=54.0n l=20n nfin=2
+MM1 OUT IN VDD VDD pmos_rvt w=54.0n l=20n nfin=2
+.ENDS
+
+************************************************************************
+* Library Name: ECE555
+* Cell Name:    AND2
+* View Name:    schematic
+************************************************************************
+
+.SUBCKT AND2 IN<0> IN<1> OUT
+*.PININFO IN<0>:I IN<1>:I OUT:O
+XNAND IN<0> IN<1> net1 / NAND2
+XINV net1 OUT / INV
+.ENDS
+
