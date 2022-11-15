@@ -16,7 +16,7 @@ LAYOUT NAME:              svdb/AND2.sp ('AND2')
 SOURCE NAME:              /filespace/m/mdlively/ECE555/lvs/AND2.src.net ('AND2')
 RULE FILE:                /filespace/m/mdlively/ECE555/lvs/_lvsRules_calibre_asap7.rul_
 RULE FILE TITLE:          LVS Rule File for ASAP7 PDK
-CREATION TIME:            Fri Nov 11 19:53:59 2022
+CREATION TIME:            Tue Nov 15 11:40:28 2022
 CURRENT DIRECTORY:        /filespace/m/mdlively/ECE555/lvs
 USER NAME:                mdlively
 CALIBRE VERSION:          v2017.4_19.14    Tue Nov 7 11:38:08 PST 2017
@@ -252,11 +252,11 @@ DISC#  LAYOUT NAME                                               SOURCE NAME
 
 --------------------------------------------------------------------------------------------------------------
 
-  3    ** missing net **                                         XINV/VDD
+  3    ** missing net **                                         XINV/VSS
 
 --------------------------------------------------------------------------------------------------------------
 
-  4    ** missing net **                                         XINV/VSS
+  4    ** missing net **                                         XINV/VDD
 
 
 **************************************************************************************************************

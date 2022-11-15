@@ -24,10 +24,10 @@ dv_discrep_line {  } -ldev {M2} {} -lloc {(0.287,0.027)} {:}  {d} {}
 dv_discrep_line {}
 dv_discrep_line {}
 dv_discrep 3 {Incorrect Nets} -inst_count { 0 1}
-dv_discrep_line {** missing net **                                         } -snet {XINV/VDD} {}
+dv_discrep_line {** missing net **                                         } -snet {XINV/VSS} {}
 dv_discrep_line {}
 dv_discrep 4 {Incorrect Nets} -inst_count { 0 1}
-dv_discrep_line {** missing net **                                         } -snet {XINV/VSS} {}
+dv_discrep_line {** missing net **                                         } -snet {XINV/VDD} {}
 dv_discrep_line {}
 dv_discrep 5 {Incorrect Ports}
 dv_discrep_line {} -lport {vdd} { on net: } -lnet {VDD} {                                           } -sport {vdd!} { on net: } -snet {VDD!} {}

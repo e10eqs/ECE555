@@ -6,4 +6,4 @@ lvs_LvsComparisonSummary {5 0 4 0}
 lvs_LvsOutFile LVS_REPORT AND2.lvs.report
 lvs_LvsOutFile SOURCE_NETLIST /filespace/m/mdlively/ECE555/lvs/AND2.src.net
 lvs_LvsOutFile RULES_FILE /filespace/m/mdlively/ECE555/lvs/_lvsRules_calibre_asap7.rul_
-lvs_LvsRunTimes 1668218039 1668218039
+lvs_LvsRunTimes 1668534028 1668534028
