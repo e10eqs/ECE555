@@ -6,4 +6,4 @@ lvs_LvsComparisonSummary {5 0 4 0}
 lvs_LvsOutFile LVS_REPORT AND2.lvs.report
 lvs_LvsOutFile SOURCE_NETLIST /filespace/s/seath/ECE555/lvs/AND2.src.net
 lvs_LvsOutFile RULES_FILE /filespace/s/seath/ECE555/__lvsRules_calibre_asap7.rul__
-lvs_LvsRunTimes 1668547023 1668547023
+lvs_LvsRunTimes 1668547788 1668547788

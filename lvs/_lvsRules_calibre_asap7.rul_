@@ -1,5 +1,5 @@
 //
-//  Rule file generated on Tue Nov 15 11:40:22 CST 2022
+//  Rule file generated on Tue Nov 15 16:15:52 CST 2022
 //     by Calibre Interactive - LVS (v2017.4_19.14)
 //
 //      *** PLEASE DO NOT MODIFY THIS FILE ***
@@ -10,7 +10,7 @@ LAYOUT PATH  "AND2.calibre.db"
 LAYOUT PRIMARY "AND2"
 LAYOUT SYSTEM GDSII
 
-SOURCE PATH "/filespace/m/mdlively/ECE555/lvs/AND2.src.net"
+SOURCE PATH "/filespace/s/seath/ECE555/lvs/AND2.src.net"
 SOURCE PRIMARY "AND2"
 SOURCE SYSTEM SPICE
 

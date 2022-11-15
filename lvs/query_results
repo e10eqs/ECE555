@@ -1,16 +1,6 @@
 mgc_rve_context_lcv "ECE555" "AND2" "layout" 4000
-mgc_rve_highlight_index 0 "5" "#00000000FFFF"
-mgc_rve_layer "LIG"
-mr 0.286 0.158 0.308 0.178
-mgc_rve_layer "M1"
-mp 20 0.099 0.261 0.126 0.261 0.126 0.196 0.18 0.196 0.18 0.133 0.153 0.133 0.153 0.115 0.18 0.115 0.18 0.034 0.198 0.034 0.198 0.159 0.306 0.159 0.306 0.177 0.198 0.177 0.198 0.248 0.18 0.248 0.18 0.214 0.144 0.214 0.144 0.279 0.099 0.279
-mgc_rve_layer "LISD"
-mr 0.096 0.243 0.12 0.297
-mr 0.15 0.027 0.174 0.135
-mgc_rve_layer "<ENCRYPTED_LAYER_48>"
-mr 0.145 0.027 0.17 0.135
-mgc_rve_layer "<ENCRYPTED_LAYER_49>"
-mr 0.091 0.243 0.125 0.297
-mgc_rve_layer "<ENCRYPTED_LAYER_23>"
-mr 0.287 0.022 0.307 0.301
-mgc_rve_zoom 0.0445 -0.03775 0.3545 0.36075 1
+mgc_rve_highlight_index 0 "M3" "#0000FFFF0000"
+mgc_rve_property "w" 5.4e-08  "l" 2e-08  "nfin" 2  "model" "pmos_rvt"
+mgc_rve_layer "<ENCRYPTED_LAYER_41>"
+mr 0.071 0.243 0.091 0.297
+mgc_rve_zoom 0.06675 0.2315 0.09525 0.3085 1

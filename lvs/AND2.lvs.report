@@ -13,12 +13,12 @@
 
 REPORT FILE NAME:         AND2.lvs.report
 LAYOUT NAME:              svdb/AND2.sp ('AND2')
-SOURCE NAME:              /filespace/m/mdlively/ECE555/lvs/AND2.src.net ('AND2')
-RULE FILE:                /filespace/m/mdlively/ECE555/lvs/_lvsRules_calibre_asap7.rul_
+SOURCE NAME:              /filespace/s/seath/ECE555/lvs/AND2.src.net ('AND2')
+RULE FILE:                /filespace/s/seath/ECE555/lvs/_lvsRules_calibre_asap7.rul_
 RULE FILE TITLE:          LVS Rule File for ASAP7 PDK
-CREATION TIME:            Tue Nov 15 11:40:28 2022
-CURRENT DIRECTORY:        /filespace/m/mdlively/ECE555/lvs
-USER NAME:                mdlively
+CREATION TIME:            Tue Nov 15 16:15:54 2022
+CURRENT DIRECTORY:        /filespace/s/seath/ECE555/lvs
+USER NAME:                seath
 CALIBRE VERSION:          v2017.4_19.14    Tue Nov 7 11:38:08 PST 2017
 
 
@@ -34,10 +34,7 @@ CALIBRE VERSION:          v2017.4_19.14    Tue Nov 7 11:38:08 PST 2017
                   #   #         #####################  
 
 
-  Error:    Different numbers of ports.
-  Error:    Different numbers of nets.
   Error:    Connectivity errors.
-  Error:    Property errors.
 
 
 **************************************************************************************************************
@@ -168,10 +165,7 @@ o LVS Setup:
                   #   #         #####################  
 
 
-  Error:    Different numbers of ports (see below).
-  Error:    Different numbers of nets (see below).
   Error:    Connectivity errors.
-  Error:    Property errors.
 
 LAYOUT CELL NAME:         AND2
 SOURCE CELL NAME:         AND2
@@ -183,9 +177,9 @@ INITIAL NUMBERS OF OBJECTS
 
                 Layout    Source         Component Type
                 ------    ------         --------------
- Ports:              2         5    *
+ Ports:              5         5
 
- Nets:               7         9    *
+ Nets:               7         7
 
  Instances:          3         3         MN (4 pins)
                      3         3         MP (4 pins)
@@ -198,17 +192,14 @@ NUMBERS OF OBJECTS AFTER TRANSFORMATION
 
                 Layout    Source         Component Type
                 ------    ------         --------------
- Ports:              2         5    *
+ Ports:              5         5
 
- Nets:               6         8    *
+ Nets:               6         6
 
  Instances:          1         1         _invv (4 pins)
                      1         1         _nand2v (5 pins)
                 ------    ------
  Total Inst:         2         2
-
-
-       * = Number of objects in layout different from number in source.
 
 
 
@@ -230,46 +221,41 @@ LEGEND:
 DISC#  LAYOUT NAME                                               SOURCE NAME
 **************************************************************************************************************
 
-  1    Net VDD                                                   VDD!
-       --- 3 Connections On This Net ---                         --- 2 Connections On This Net ---
+  1    Net VDD                                                   VDD
+       --- 3 Connections On This Net ---                         --- 3 Connections On This Net ---
        --------------------------                                --------------------------
        
-       (_invv):sup1                                              ** missing connection **
-         M5(0.287,0.243):b
-         M5(0.287,0.243):s
+       (_nand2v):sup1                                            ** missing connection **
+         M4(0.125,0.243):b
+         M4(0.125,0.243):d
+         M3(0.071,0.243):b
+         M3(0.071,0.243):s
+       
+       
+       ** missing connection **                                  (_nand2v):sup2
+                                                                   XNAND/MM0:b
+                                                                   XNAND/Mnmos:b
+                                                                   XNAND/Mnmos:s
        
 
 --------------------------------------------------------------------------------------------------------------
 
-  2    Net VSS                                                   VSS!
-       --- 3 Connections On This Net ---                         --- 2 Connections On This Net ---
+  2    Net VSS                                                   VSS
+       --- 3 Connections On This Net ---                         --- 3 Connections On This Net ---
        --------------------------                                --------------------------
        
-       (_invv):sup2                                              ** missing connection **
-         M2(0.287,0.027):b
-         M2(0.287,0.027):s
+       (_nand2v):sup2                                            ** missing connection **
+         M1(0.125,0.027):b
+         M0(0.071,0.027):b
+         M0(0.071,0.027):s
        
-
---------------------------------------------------------------------------------------------------------------
-
-  3    ** missing net **                                         XINV/VSS
-
---------------------------------------------------------------------------------------------------------------
-
-  4    ** missing net **                                         XINV/VDD
-
-
-**************************************************************************************************************
-                                   INCORRECT PORTS
-
-DISC#  LAYOUT NAME                                               SOURCE NAME
-**************************************************************************************************************
-
-  5    vdd on net: VDD                                           vdd! on net: VDD!
-  6    VSS on net: VSS                                           VSS! on net: VSS!
-  7    ** missing port **                                        IN<0> on net: IN<0>
-  8    ** missing port **                                        IN<1> on net: IN<1>
-  9    ** missing port **                                        OUT on net: OUT
+       
+       ** missing connection **                                  (_nand2v):sup1
+                                                                   XNAND/Mpmos:b
+                                                                   XNAND/Mpmos:s
+                                                                   XNAND/MM1:b
+                                                                   XNAND/MM1:s
+       
 
 
 **************************************************************************************************************
@@ -278,35 +264,41 @@ DISC#  LAYOUT NAME                                               SOURCE NAME
 DISC#  LAYOUT NAME                                               SOURCE NAME
 **************************************************************************************************************
 
- 10    M5(0.287,0.243)  MP(PMOS_RVT)                             XINV/MM1  MP(PMOS_RVT)
-         g: 5                                                      g: net1
-         s: 6                                                      s: OUT
-         d: VDD                                                    ** VDD! **
-         b: VDD                                                    ** VDD! **
-         ** missing net **                                         d: XINV/VDD
-         ** missing net **                                         b: XINV/VDD
+  3    M1(0.125,0.027)  MN(NMOS_RVT)                             XNAND/Mnmos  MN(NMOS_RVT)
+         g: IN<1>                                                  g: IN<1>
+         d: 5                                                      ** net1 **
+         b: VSS                                                    ** VSS **
+         ** VDD **                                                 d: VDD
+         ** VDD **                                                 b: VDD
 
 --------------------------------------------------------------------------------------------------------------
 
- 11    M2(0.287,0.027)  MN(NMOS_RVT)                             XINV/MM0  MN(NMOS_RVT)
-         g: 5                                                      g: net1
-         s: 6                                                      s: OUT
-         d: VSS                                                    ** VSS! **
-         b: VSS                                                    ** VSS! **
-         ** missing net **                                         d: XINV/VSS
-         ** missing net **                                         b: XINV/VSS
+  4    M0(0.071,0.027)  MN(NMOS_RVT)                             XNAND/MM0  MN(NMOS_RVT)
+         g: IN<0>                                                  g: IN<0>
+         d: VSS                                                    ** VSS **
+         b: VSS                                                    ** VSS **
+         ** 5 **                                                   d: net1
+         ** VDD **                                                 b: VDD
 
+--------------------------------------------------------------------------------------------------------------
 
+  5    M4(0.125,0.243)  MP(PMOS_RVT)                             XNAND/MM1  MP(PMOS_RVT)
+         g: IN<1>                                                  g: IN<1>
+         s: 5                                                      s: net1
+         d: VDD                                                    ** VDD **
+         b: VDD                                                    ** VDD **
+         ** VSS **                                                 d: VSS
+         ** VSS **                                                 b: VSS
 
-**************************************************************************************************************
-                                      PROPERTY ERRORS
+--------------------------------------------------------------------------------------------------------------
 
-DISC#  LAYOUT                                                    SOURCE                      ERROR
-**************************************************************************************************************
-
- 12    M2(0.287,0.027)  MN(NMOS_RVT)                             XINV/MM0  MN(NMOS_RVT)
-       w: 0.108 u                                                w: 0.054 u                 0.054 u
-       nfin: 4                                                   nfin: 2                        2 
+  6    M3(0.071,0.243)  MP(PMOS_RVT)                             XNAND/Mpmos  MP(PMOS_RVT)
+         g: IN<0>                                                  g: IN<0>
+         s: 5                                                      s: net1
+         d: VDD                                                    ** VDD **
+         b: VDD                                                    ** VDD **
+         ** VSS **                                                 d: VSS
+         ** VSS **                                                 b: VSS
 
 
 
@@ -318,9 +310,9 @@ DISC#  LAYOUT                                                    SOURCE         
                   Matched    Matched    Unmatched    Unmatched    Component
                    Layout     Source       Layout       Source    Type
                   -------    -------    ---------    ---------    ---------
-   Ports:               2          2            0            3
+   Ports:               5          5            0            0
 
-   Nets:                6          6            0            2
+   Nets:                6          6            0            0
 
    Instances:           1          1            0            0    _invv
                         1          1            0            0    _nand2v
@@ -328,10 +320,9 @@ DISC#  LAYOUT                                                    SOURCE         
    Total Inst:          2          2            0            0
 
 
-o Layout Names That Are Missing In The Source:
+o Initial Correspondence Points:
 
-   Ports:        vdd VSS
-   Nets:         vdd VSS
+   Ports:        vdd VSS IN<0> IN<1> OUT
 
 
 **************************************************************************************************************
@@ -345,17 +336,20 @@ o Layout Names That Are Missing In The Source:
 
 --------------------------------------------------------------------------------------------------------------
 
-       (_invv)                                                   (_invv)
-         in: 5                                                     in: net1
-         out: 6                                                    out: OUT
-         sup1: VDD                                                 ** VDD! **
-         sup2: VSS                                                 ** VSS! **
-         ** missing net **                                         sup1: XINV/VDD
-         ** missing net **                                         sup2: XINV/VSS
+       (_nand2v)                                                 (_nand2v)
+         in1: IN<0>                                                in2: IN<0>
+         in2: IN<1>                                                in1: IN<1>
+         out: 5                                                    out: net1
+         sup1: VDD                                                 ** VDD **
+         sup2: VSS                                                 ** VSS **
+         ** VSS **                                                 sup1: VSS
+         ** VDD **                                                 sup2: VDD
 
        Devices: 
-         M5(0.287,0.243)  MP(PMOS_RVT)                             XINV/MM1  MP(PMOS_RVT) 
-         M2(0.287,0.027)  MN(NMOS_RVT)                             XINV/MM0  MN(NMOS_RVT) 
+         M1(0.125,0.027)  MN(NMOS_RVT)                             XNAND/Mnmos  MN(NMOS_RVT) 
+         M0(0.071,0.027)  MN(NMOS_RVT)                             XNAND/MM0  MN(NMOS_RVT) 
+         M4(0.125,0.243)  MP(PMOS_RVT)                             XNAND/MM1  MP(PMOS_RVT) 
+         M3(0.071,0.243)  MP(PMOS_RVT)                             XNAND/Mpmos  MP(PMOS_RVT) 
 
 
 **************************************************************************************************************

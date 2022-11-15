@@ -1,8 +1,8 @@
 # Automagically generated file: Please do not edit!
 lvs_ExtfVersion 3
-lvs_ExtRunTimes 1668534027 1668534027
-lvs_ExtOutFile RUNDIR /filespace/m/mdlively/ECE555/lvs
-lvs_ExtOutFile RULES_FILE /filespace/m/mdlively/ECE555/lvs/_lvsRules_calibre_asap7.rul_
+lvs_ExtRunTimes 1668550553 1668550554
+lvs_ExtOutFile RUNDIR /filespace/s/seath/ECE555/lvs
+lvs_ExtOutFile RULES_FILE /filespace/s/seath/ECE555/lvs/_lvsRules_calibre_asap7.rul_
 lvs_ExtInfoExtSummary {0 0 0 0 2 0 0 0 0 0 0}
 lvs_ExtInfoDfmSummary {0}
 lvs_ExtOutFile LAYOUT_NETLIST svdb/AND2.sp

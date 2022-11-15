@@ -4,7 +4,7 @@
 * Library Name:  ECE555
 * Top Cell Name: AND2
 * View Name:     schematic
-* Netlisted on:  Nov 15 11:40:22 2022
+* Netlisted on:  Nov 15 16:15:52 2022
 ************************************************************************
 
 *.EQUATION
@@ -12,11 +12,7 @@
 *.MEGA
 .PARAM
 
-*.GLOBAL vss!
-+        vdd!
 
-*.PIN vss!
-*+    vdd!
 
 ************************************************************************
 * Library Name: ECE555
@@ -24,12 +20,12 @@
 * View Name:    schematic
 ************************************************************************
 
-.SUBCKT NAND2 IN<0> IN<1> OUT
-*.PININFO IN<0>:I IN<1>:I OUT:O
-MM0 net1 IN<0> vss! vss! nmos_rvt w=108.00n l=20n nfin=4
-Mnmos OUT IN<1> net1 vss! nmos_rvt w=108.00n l=20n nfin=4
-MM1 OUT IN<1> vdd! vdd! pmos_rvt w=54.0n l=20n nfin=2
-Mpmos OUT IN<0> vdd! vdd! pmos_rvt w=54.0n l=20n nfin=2
+.SUBCKT NAND2 IN<0> IN<1> OUT VDD VSS
+*.PININFO IN<0>:I IN<1>:I OUT:O VDD:B VSS:B
+MM0 net1 IN<0> VSS VSS nmos_rvt w=108.00n l=20n nfin=4
+Mnmos OUT IN<1> net1 VSS nmos_rvt w=108.00n l=20n nfin=4
+MM1 OUT IN<1> VDD VDD pmos_rvt w=54.0n l=20n nfin=2
+Mpmos OUT IN<0> VDD VDD pmos_rvt w=54.0n l=20n nfin=2
 .ENDS
 
 ************************************************************************
@@ -38,9 +34,9 @@ Mpmos OUT IN<0> vdd! vdd! pmos_rvt w=54.0n l=20n nfin=2
 * View Name:    schematic
 ************************************************************************
 
-.SUBCKT INV IN OUT
-*.PININFO IN:I OUT:O
-MM0 OUT IN VSS VSS nmos_rvt w=54.0n l=20n nfin=2
+.SUBCKT INV IN OUT VDD VSS
+*.PININFO IN:I OUT:O VDD:B VSS:B
+MM0 OUT IN VSS VSS nmos_rvt w=108.00n l=20n nfin=4
 MM1 OUT IN VDD VDD pmos_rvt w=54.0n l=20n nfin=2
 .ENDS
 
@@ -50,9 +46,9 @@ MM1 OUT IN VDD VDD pmos_rvt w=54.0n l=20n nfin=2
 * View Name:    schematic
 ************************************************************************
 
-.SUBCKT AND2 IN<0> IN<1> OUT
-*.PININFO IN<0>:I IN<1>:I OUT:O
-XNAND IN<0> IN<1> net1 / NAND2
-XINV net1 OUT / INV
+.SUBCKT AND2 IN<0> IN<1> OUT VDD VSS
+*.PININFO IN<0>:I IN<1>:I OUT:O VDD:B VSS:B
+XNAND IN<0> IN<1> net1 VSS VDD / NAND2
+XINV net1 OUT VDD VSS / INV
 .ENDS
 
