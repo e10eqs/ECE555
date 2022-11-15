@@ -5,8 +5,6 @@ ECE555/NAND2/schematic NAND2
 ECE555/AND2/schematic AND2
 $endmodel
 $net
-vss! vss!
-vdd! vdd!
 $endnet
 $param
 $endparam

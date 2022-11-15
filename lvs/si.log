@@ -1,9 +1,9 @@
-Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.05s.
+Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.03s.
 
 Loading hnlInit.cxt 
 Running Artist Hierarchical Netlisting ...
 
-WARNING (OSSHNL-325): Place master 'ECE555/INV/symbol' for instance 'INV' has been modified since the last
+WARNING (OSSHNL-325): Place master 'ECE555/NAND2/symbol' for instance 'NAND' has been modified since the last
 extraction of its parent cellview 'ECE555/AND2/schematic'.
 Connectivity changes in the place master can cause issues in the generated
 netlist. To resolve such issues:
@@ -25,5 +25,15 @@ The variable simSymbolModifiedAction controls the severity of this message,
 which can be 'ignore', 'warning', or 'error'.
 
 Loading cdf.cxt 
-End netlisting Nov 15 11:40:22 2022
+ERROR (OSSHNL-254): Terminal 'VDD' of place master 'ECE555/NAND2/symbol' has no corresponding terminal in
+instance 'NAND' of cellview 'ECE555/AND2/schematic'. Either Run hierarchical extraction on the
+cellview or set the simSymbolModifiedAction variable to "ignore" and netlist
+again.
+
+ERROR (OSSHNL-254): Terminal 'VSS' of place master 'ECE555/NAND2/symbol' has no corresponding terminal in
+instance 'NAND' of cellview 'ECE555/AND2/schematic'. Either Run hierarchical extraction on the
+cellview or set the simSymbolModifiedAction variable to "ignore" and netlist
+again.
+
+End netlisting Nov 15 16:16:46 2022
 

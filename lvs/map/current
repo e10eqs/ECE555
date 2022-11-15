@@ -4,7 +4,6 @@
   blockName "AND2"
   repList "auCdl schematic"
   stopList "auCdl"
-  globalList "vss! vdd!"
   hierDelim "."
   netlistDir "/filespace/m/mdlively/ECE555/lvs"
  )
