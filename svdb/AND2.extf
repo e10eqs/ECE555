@@ -1,0 +1,9 @@
+# Automagically generated file: Please do not edit!
+lvs_ExtfVersion 3
+lvs_ExtRunTimes 1668547022 1668547023
+lvs_ExtOutFile RUNDIR /filespace/s/seath/ECE555
+lvs_ExtOutFile RULES_FILE /filespace/s/seath/ECE555/__lvsRules_calibre_asap7.rul__
+lvs_ExtInfoExtSummary {0 0 0 0 2 0 0 0 0 0 0}
+lvs_ExtInfoDfmSummary {0}
+lvs_ExtOutFile LAYOUT_NETLIST /filespace/s/seath/ECE555/AND2.sp
+lvs_ExtOutFile EXTRACTION_REPORT AND2.lvs.report.ext

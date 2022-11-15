@@ -48,4 +48,4 @@ DEFINE asap7sc6t_26 $PDK_DIR/asap7sc6t_26
 #-----------------------
 # User Libraries: 
 #-----------------------
-DEFINE ECE555 /filespace/m/mdlively/ECE555/ECE555
+DEFINE ECE555 /filespace/s/seath/ECE555/ECE555
