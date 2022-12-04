@@ -4,7 +4,7 @@
 * Library Name:  ECE555
 * Top Cell Name: AND2
 * View Name:     schematic
-* Netlisted on:  Nov 15 16:16:46 2022
+* Netlisted on:  Dec  4 14:06:54 2022
 ************************************************************************
 
 *.EQUATION
@@ -48,7 +48,7 @@ MM1 OUT IN VDD VDD pmos_rvt w=54.0n l=20n nfin=2
 
 .SUBCKT AND2 IN<0> IN<1> OUT VDD VSS
 *.PININFO IN<0>:I IN<1>:I OUT:O VDD:B VSS:B
-XNAND IN<0> IN<1> net1 / NAND2
+XNAND IN<0> IN<1> net1 VDD VSS / NAND2
 XINV net1 OUT VDD VSS / INV
 .ENDS
 

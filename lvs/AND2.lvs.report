@@ -16,7 +16,7 @@ LAYOUT NAME:              svdb/AND2.sp ('AND2')
 SOURCE NAME:              /filespace/m/mdlively/ECE555/lvs/AND2.src.net ('AND2')
 RULE FILE:                /filespace/m/mdlively/ECE555/lvs/_lvsRules_calibre_asap7.rul_
 RULE FILE TITLE:          LVS Rule File for ASAP7 PDK
-CREATION TIME:            Tue Nov 15 16:16:49 2022
+CREATION TIME:            Sun Dec  4 14:06:55 2022
 CURRENT DIRECTORY:        /filespace/m/mdlively/ECE555/lvs
 USER NAME:                mdlively
 CALIBRE VERSION:          v2017.4_19.14    Tue Nov 7 11:38:08 PST 2017
@@ -27,15 +27,13 @@ CALIBRE VERSION:          v2017.4_19.14    Tue Nov 7 11:38:08 PST 2017
 
 
 
-                  #   #         #####################  
-                   # #          #                   #  
-                    #           #     INCORRECT     #  
-                   # #          #                   #  
-                  #   #         #####################  
+                         #       ###################       _   _   
+                        #        #                 #       *   *   
+                   #   #         #     CORRECT     #         |     
+                    # #          #                 #       \___/  
+                     #           ###################               
 
 
-  Error:    Different numbers of nets.
-  Error:    Connectivity errors.
 
 
 **************************************************************************************************************
@@ -44,7 +42,7 @@ CALIBRE VERSION:          v2017.4_19.14    Tue Nov 7 11:38:08 PST 2017
 
   Result         Layout                        Source
   -----------    -----------                   --------------
-  INCORRECT      AND2                          AND2
+  CORRECT        AND2                          AND2
 
 
 
@@ -159,15 +157,13 @@ o LVS Setup:
 
 
 
-                  #   #         #####################  
-                   # #          #                   #  
-                    #           #     INCORRECT     #  
-                   # #          #                   #  
-                  #   #         #####################  
+                         #       ###################       _   _   
+                        #        #                 #       *   *   
+                   #   #         #     CORRECT     #         |     
+                    # #          #                 #       \___/  
+                     #           ###################               
 
 
-  Error:    Different numbers of nets (see below).
-  Error:    Connectivity errors.
 
 LAYOUT CELL NAME:         AND2
 SOURCE CELL NAME:         AND2
@@ -181,7 +177,7 @@ INITIAL NUMBERS OF OBJECTS
                 ------    ------         --------------
  Ports:              5         5
 
- Nets:               7         9    *
+ Nets:               7         7
 
  Instances:          3         3         MN (4 pins)
                      3         3         MP (4 pins)
@@ -196,45 +192,12 @@ NUMBERS OF OBJECTS AFTER TRANSFORMATION
                 ------    ------         --------------
  Ports:              5         5
 
- Nets:               6         8    *
+ Nets:               6         6
 
  Instances:          1         1         _invv (4 pins)
                      1         1         _nand2v (5 pins)
                 ------    ------
  Total Inst:         2         2
-
-
-       * = Number of objects in layout different from number in source.
-
-
-
-**************************************************************************************************************
-                                 INCORRECT OBJECTS
-**************************************************************************************************************
-
-
-LEGEND:
--------
-
-  ne  = Naming Error (same layout name found in source
-        circuit, but object was matched otherwise).
-
-
-**************************************************************************************************************
-                                   INCORRECT NETS
-
-DISC#  LAYOUT NAME                                               SOURCE NAME
-**************************************************************************************************************
-
-  1    Net VDD                                                   VDD
-                                                                 XNAND/VDD
-       --- 3 Connections On This Net ---                         --- 3 Connections On This Net ---
-
---------------------------------------------------------------------------------------------------------------
-
-  2    Net VSS                                                   VSS
-                                                                 XNAND/VSS
-       --- 3 Connections On This Net ---                         --- 3 Connections On This Net ---
 
 
 
@@ -248,7 +211,7 @@ DISC#  LAYOUT NAME                                               SOURCE NAME
                   -------    -------    ---------    ---------    ---------
    Ports:               5          5            0            0
 
-   Nets:                6          8            0            0
+   Nets:                6          6            0            0
 
    Instances:           1          1            0            0    _invv
                         1          1            0            0    _nand2v
